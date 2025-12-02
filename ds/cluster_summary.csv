@@ -1,0 +1,11 @@
+Cluster_ID,Count,Percentage,Top_Keywords,Median_Year
+0,75,5.2854122621564485,"security, contributions, privacy, cryptography, systems, internet, data, computer, mobile, research",2018.0
+1,174,12.26215644820296,"contributions, systems, wireless, internet, networks, distributed, protocols, mobile, network, computing",2011.0
+2,193,13.601127554615926,"contributions, software, programming, languages, verification, systems, engineering, language, program, design",2007.0
+3,164,11.557434813248767,"computer, contributions, acm, computing, science, years, service, leadership, community, research",1996.0
+4,120,8.456659619450317,"contributions, database, data, management, systems, query, databases, distributed, processing, theory",2009.0
+5,182,12.825933756166313,"contributions, algorithms, theory, complexity, computational, design, algorithmic, analysis, data, science",2011.0
+6,195,13.742071881606766,"contributions, parallel, computing, memory, performance, design, systems, computer, architecture, high",2009.0
+7,145,10.218463706835799,"contributions, learning, intelligence, artificial, mining, machine, language, data, retrieval, processing",2015.0
+8,81,5.708245243128964,"human, contributions, interaction, computer, computing, design, systems, leadership, information, software",2014.0
+9,90,6.342494714587738,"contributions, vision, computer, graphics, geometry, robotics, processing, applications, computing, modeling",2014.0
